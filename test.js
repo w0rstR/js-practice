@@ -1,1 +1,3 @@
-console.log(+3449*4==='8')
+numberOfFilims=prompt(+"Сколько фильмов ви уже поспотрели")
+console.log(numberOfFilims)
+console.log(typeof(numberOfFilims))
