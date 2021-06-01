@@ -1,1 +1,1 @@
-console.log(+4*4==='8')
+console.log(+39*4==='8')
